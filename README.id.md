@@ -38,6 +38,8 @@ Dua akun simulasi dan satu catatan sintetis. Request lintas akun dibandingkan se
 
 <sub>Ini lab pembelajaran lokal yang sengaja memuat contoh rentan. Bukan temuan pada target publik, penghargaan bounty, atau bukti keamanan seluruh aplikasi.</sub>
 
+**Eksperimen tambahan:** [Isolasi tenant](https://justfishlab.my.id/notes/tenant-isolation) · [Otorisasi peran](https://justfishlab.my.id/notes/role-authorization). Total suite 24 tes regresi.
+
 ### [Portfolio JustFishLab →](https://justfishlab.my.id)
 
 Rumah multibahasa untuk jurnal lab dan identitas visual personal. Dibangun dengan React dan Vite, dengan perhatian pada layout responsif, keterbacaan, dan konsistensi visual.
@@ -71,7 +73,7 @@ Daftar ini mencerminkan alat yang digunakan pada pekerjaan yang dipublikasikan, 
 
 ## 06 / Rencana, bukan hasil yang sudah diklaim
 
-- [ ] Memperluas lab lokal untuk isolasi tenant dan matriks peran sederhana.
+- [x] Memperluas lab lokal untuk isolasi tenant dan matriks peran sederhana.
 - [ ] Menambah eksperimen setelah benar-benar diuji.
 - [ ] Menghubungkan setiap artikel ke implementasi dan tes regresi yang sesuai.
 

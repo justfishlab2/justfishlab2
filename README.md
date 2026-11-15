@@ -47,6 +47,8 @@ Two simulated accounts. One synthetic note. The same cross-account request, befo
 
 <sub>This is a deliberately vulnerable local teaching lab, not a public-target vulnerability report, a bounty award, or proof that an entire application is secure.</sub>
 
+**More published experiments:** [Tenant isolation](https://justfishlab.my.id/notes/tenant-isolation) · [Role-based authorization](https://justfishlab.my.id/notes/role-authorization). The complete suite contains 24 regression tests.
+
 ### [JustFishLab portfolio →](https://justfishlab.my.id)
 
 A multilingual home for lab notes and personal visual identity. Built with React and Vite, with an emphasis on responsive layout, readable documentation, and a consistent editorial system.
@@ -80,9 +82,9 @@ These are tools used in the published work—not an exhaustive skills inventory 
 
 ## 06 / Next, not yet claimed
 
-- [ ] Extend the local lab to cover tenant isolation and a small role matrix.
+- [x] Extend the local lab to cover tenant isolation and a small role matrix.
 - [ ] Add another documented experiment when it is actually tested.
-- [ ] Connect each published case study to the exact implementation and regression test.
+- [x] Connect the first published case study to the exact implementation and regression test.
 
 ## Contact
 
